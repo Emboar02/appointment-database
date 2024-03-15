@@ -1,0 +1,16 @@
+{
+  "name": "homework6",
+  "version": "1.0.0",
+  "description": "Homework 6 for Software Engineering",
+  "main": "homework6.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Haejin Song",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "mysql": "^2.18.1",
+    "supertest": "^6.3.4"
+  }
+}
